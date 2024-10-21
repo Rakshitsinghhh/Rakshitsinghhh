@@ -44,11 +44,13 @@ Cloud server deployment
 💻 Projects
 
 Here are some highlights:
--  [🛒 Amazon Clone](https://github.com/yourusername/amazon-clone) : A basic e-commerce site with a user-friendly interface.
--  [🍽️ Restaurant Management System](https://github.com/yourusername/restaurant-management-system) : Manages restaurant operations, from orders to inventory.
+-  [🛒 Amazon Clone](https://github.com/Rakshitsinghhh/e-commerce) : A basic e-commerce site with a user-friendly interface.
+-  [🍽️ Restaurant Management System](https://github.com/Rakshitsinghhh/restaurantmanagment) : Manages restaurant operations, from orders to inventory.
 -  Personal Websites : Developed various websites using  HTML, CSS, and JavaScript .
+-  [🌦️Weather Forecast](https://github.com/Rakshitsinghhh/weatherforecast-temp) : A basic HTML,CSS code which retrives data from API and presents.
+-  [💊🩺 MediLocker](https://github.com/Rakshitsinghhh/MediLocker) : A webpage which stores past medicationa and patient profile for better inhancement of patients as well as doctor.
 
-Check out more in my [repositories](https://github.com/yourusername?tab=repositories)!
+Check out more in my [repositories](https://github.com/Rakshitsinghhh?tab=repositories)!
 
   
 
