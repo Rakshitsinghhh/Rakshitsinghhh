@@ -67,7 +67,7 @@ I'm always open to collaborating on projects and learning new things. Feel free 
 -  GitHub: https://github.com/Rakshitsinghhh
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rakshitsinghhh&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
   
