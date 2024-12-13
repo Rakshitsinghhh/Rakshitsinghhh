@@ -5,7 +5,7 @@
   <img src="https://leetcard.jacoblin.cool/Rakshitsinghhh?ext=heatmap" alt="Leetcode Stats">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshitsinghhh&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshitsinghhh&show_icons=true&theme=radical)
 
 
 
