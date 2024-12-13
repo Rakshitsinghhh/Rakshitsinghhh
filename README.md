@@ -1,6 +1,6 @@
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Rakshitsinghhh?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 <h1 align="center">Hi there, I'm Rakshit! 👋</h1>
 
