@@ -23,7 +23,6 @@ I'm a passionate developer who loves coding, building projects, and solving real
 Here's what I work with:
 
 Languages:
-- ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 - ![Python](https://img.shields.io/badge/Code-Python-blue)
 - ![C](https://img.shields.io/badge/Code-C-00599C)
 - ![C++](https://img.shields.io/badge/Code-C++-00599C)
@@ -31,6 +30,7 @@ Languages:
 - ![HTML](https://img.shields.io/badge/Code-HTML-orange)
 - ![CSS](https://img.shields.io/badge/Code-CSS-blue)
 - ![SQL](https://img.shields.io/badge/Code-SQL-blue)
+- ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
 Frameworks & Libraries:
 - ![Node.js](https://img.shields.io/badge/Framework-Node.js-green)
