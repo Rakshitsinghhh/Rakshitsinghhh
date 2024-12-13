@@ -1,8 +1,10 @@
 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Rakshitsinghhh?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
-
 <h1 align="center">Hi there, I'm Rakshit! 👋</h1>
+
+<p align="center">
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/Rakshitsinghhh?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-Passionate-blue" alt="Developer Badge"/>
