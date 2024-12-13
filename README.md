@@ -2,8 +2,9 @@
 <h1 align="center">Hi there, I'm Rakshit! 👋</h1>
 
 <p align="center">
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/Rakshitsinghhh?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/Rakshitsinghhh?ext=heatmap" alt="Leetcode Stats">
 </p>
+
 
 
 <p align="center">
