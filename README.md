@@ -6,8 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-Passionate-blue" alt="Developer Badge"/>
-  <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Learning%20-Cloud%20Computing-orange" alt="Learning Badge"/>
+  <img src="https://img.shields.io/github/followers/rakshitsinghhh?style=social" alt="GitHub Followers"/>
 </p>
 
   
@@ -55,8 +54,6 @@ Here are some highlights:
 -  [💊🩺 MediLocker](https://github.com/Rakshitsinghhh/MediLocker) : A webpage which stores past medicationa and patient profile for better inhancement of patients as well as doctor.
 
 Check out more in my [repositories](https://github.com/Rakshitsinghhh?tab=repositories)!
-
-  
 
 📫 Let's Connect
 
