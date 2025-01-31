@@ -50,6 +50,8 @@ Languages:
 - ![CSS](https://img.shields.io/badge/Code-CSS-blue)
 - ![SQL](https://img.shields.io/badge/Code-SQL-blue)
 - ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+- ![React](https://img.shields.io/badge/Code-React-blue)
+
 
 Frameworks & Libraries:
 - ![Node.js](https://img.shields.io/badge/Framework-Node.js-green)
