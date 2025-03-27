@@ -129,7 +129,11 @@ I'm always open to collaborating on projects and learning new things. Feel free 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakshitsinghhh&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakshitsinghhh/rakshitsinghhh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakshitsinghhh/rakshitsinghhh/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rakshitsinghhh/rakshitsinghhh/output/github-snake.svg" />
+</picture>
   
 
 <p align="center">⭐️ <strong>If you like my work, consider giving me a star!</strong> ⭐️</p>
