@@ -83,15 +83,28 @@ Advanced C++ on Linux
 Full-stack development with Node.js & Express.js 
 Cloud server deployment 
 
-💻 Projects
+### 💻 Featured Projects
 
-Here are some highlights:
--  [🛒 Amazon Clone](https://github.com/Rakshitsinghhh/e-commerce) : A basic e-commerce site with a user-friendly interface.
--  [🍽️ Restaurant Management System](https://github.com/Rakshitsinghhh/restaurantmanagment) : Manages restaurant operations, from orders to inventory.
--  Personal Websites : Developed various websites using  HTML, CSS, and JavaScript .
--  [🌦️Weather Forecast](https://github.com/Rakshitsinghhh/weatherforecast-temp) : A basic HTML,CSS code which retrives data from API and presents.
--  [💊🩺 MediLocker](https://github.com/Rakshitsinghhh/MediLocker) : A webpage which stores past medicationa and patient profile for better inhancement of patients as well as doctor.
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [🔐 WALLATION](https://github.com/Rakshitsinghhh/WALLATION.git) | Secure cryptocurrency wallet with transaction tracking | React, Node.js, Web3.js | [Try Demo]() |
+| [💰 Personal Finance Tracker](https://github.com/Rakshitsinghhh/PersonalFinanceTracker.git) | expense analysis & budgeting tool | Python, Kotlin, java, Sqlite | [View Demo]() |
+| [💊 MediLocker](https://github.com/Rakshitsinghhh/MediLocker.git) | medical records management system | HTML, CSS , JAVASCRIPT , NODE.JS, EXPRESS.JS , MYSQL | [Live Demo]() |
+| [🍽️ RestaurantOS](https://github.com/Rakshitsinghhh/restaurantmanagment.git) | Restaurant operations system with IoT integration | Python, MySQL | [Demo]() |
 
+**Key Features Across Projects:**
+- 🔒 **WALLATION**: Secure private key management, multi-chain support, real-time crypto pricing
+- 📊 **Finance Tracker**: automated categorization, PDF report generation
+- 🏥 **MediLocker**: Patient-doctor portal, prescription tracker, medication reminders
+- 🖥️ **RestaurantOS**: clone and comnbination of zomato and swiggy 
+
+**Other Notable Works:**
+- [🛒 E-Commerce Platform](https://github.com/Rakshitsinghhh/e-commerce)
+- [🌤️ Weather Dashboard](https://github.com/Rakshitsinghhh/weatherforecast-temp)
+- 🎨 [UI Component Library]()
+
+<sub>💡 *Demo links can be added when projects are deployed*</sub>
+- 
 Check out more in my [repositories](https://github.com/Rakshitsinghhh?tab=repositories)!
 
 📫 Let's Connect
