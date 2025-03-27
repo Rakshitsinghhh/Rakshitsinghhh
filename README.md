@@ -45,7 +45,7 @@
 
 🚀 About Me
 
-I'm a developer learning WEB3,  CLOUD SYSTEMS , and FULL-STACK engineering , with expertise in low-level programming and a passion for solving complex PROBLEMS and making complex projects .
+I'm a developer learning WEB3,  CLOUD SYSTEMS , and FULL-STACK engineering , with expertise in low-level programming and a passion for solving complex PROBLEMS and making CHALLENGING projects .
 
 
 ### 🛠️ Technical Proficiencies
