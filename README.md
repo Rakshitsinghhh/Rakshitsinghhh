@@ -45,11 +45,8 @@
 
 🚀 About Me
 
-I'm a passionate developer who loves coding, building projects, and solving real-world problems. With a strong background in various programming languages and web development, I'm always ready to learn and embrace new challenges.
+I'm a developer learning WEB3,  CLOUD SYSTEMS , and FULL-STACK engineering , with expertise in low-level programming and a passion for solving complex PROBLEMS and making complex projects .
 
-🛠️ Tech Stack
-
-Here's what I work with:
 
 ### 🛠️ Technical Proficiencies
 
@@ -78,10 +75,24 @@ Here's what I work with:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-🌱 Currently Learning
-Advanced C++ on Linux 
-Full-stack development with Node.js & Express.js 
-Cloud server deployment 
+### 🌱 Current Learning Focus
+
+**Blockchain & Web3**  
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/) 
+[![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://web3js.readthedocs.io/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org/)
+
+**Systems Programming**  
+[![C++](https://img.shields.io/badge/Advanced_C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+
+**Cloud & Backend**  
+[![GCCF](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification/cloud-digital-leader)
+
+**Current Learning Projects:**
+- Building a Rust-based blockchain node
+- Developing Google Cloud deployment pipelines
+- Implementing Web3 authentication systems
 
 ### 💻 Featured Projects
 
