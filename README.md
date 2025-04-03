@@ -119,5 +119,5 @@ I'm always open to collaborating on projects and learning new things. Feel free 
 -  LinkedIn: https://www.linkedin.com/in/rakshit-singh-5b7533248/
 -  GitHub: https://github.com/Rakshitsinghhh
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitsinghhh&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
 <p align="center">⭐️ <strong>If you like my work, consider giving me a star!</strong> ⭐️</p>
