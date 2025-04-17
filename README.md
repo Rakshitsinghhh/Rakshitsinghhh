@@ -116,9 +116,9 @@ Check out more in my [repositories](https://github.com/Rakshitsinghhh?tab=reposi
 
 I'm always open to collaborating on projects and learning new things. Feel free to reach out:
 
--  Email:  singhrakshit2404@gmail.com
--  LinkedIn: https://www.linkedin.com/in/rakshit-singh-5b7533248/
--  GitHub: https://github.com/Rakshitsinghhh
+-  Email:  [Email]singhrakshit2404@gmail.com
+-  linktree: [linktree](https://linktr.ee/rakshitsinghhh)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rakshitsinghhh&label=Profile%20views&color=0e75b6&style=flat" alt="codersomya" /> </p>
 <p align="center">⭐️ <strong>If you like my work, consider giving me a star!</strong> ⭐️</p>
