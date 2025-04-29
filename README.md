@@ -94,7 +94,7 @@ I'm a developer learning WEB3,  CLOUD SYSTEMS , and FULL-STACK engineering , wit
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | [🔐 WALLATION](https://github.com/Rakshitsinghhh/WALLATION.git) | Secure cryptocurrency wallet with transaction tracking | React, Node.js, Web3.js | [Try Demo]() |
-| [🔗ChainPort](https://github.com/Rakshitsinghhh/ChainPort.git) | A secure cryptocurrency wallet adapter which increases the security and sign transaction and sign messages | [Try demo]() |
+| [🔗ChainPort](https://github.com/Rakshitsinghhh/ChainPort.git) | A secure cryptocurrency wallet adapter which increases the security and sign transaction and sign messages | React, Node.js, Web3.js | [Try demo]() |
 | [💰 Personal Finance Tracker](https://github.com/Rakshitsinghhh/PersonalFinanceTracker.git) | expense analysis & budgeting tool | Python, Kotlin, java, Sqlite | [View Demo]() |
 | [💊 MediLocker](https://github.com/Rakshitsinghhh/MediLocker.git) | medical records management system | HTML, CSS , JAVASCRIPT , NODE.JS, EXPRESS.JS , MYSQL | [Live Demo]() |
 | [🍽️ RestaurantOS](https://github.com/Rakshitsinghhh/restaurantmanagment.git) | Restaurant operations system with IoT integration | Python, MySQL | [Demo]() |
