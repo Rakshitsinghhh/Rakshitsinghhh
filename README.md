@@ -23,9 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitsinghhh&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-Passionate-blue" alt="Developer Badge"/>
   <img src="https://img.shields.io/github/followers/rakshitsinghhh?style=social" alt="GitHub Followers"/>
