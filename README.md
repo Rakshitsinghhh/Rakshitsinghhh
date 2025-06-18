@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/github/followers/rakshitsinghhh?style=social" alt="GitHub Followers"/>
 </p>
 
-  
-
 🚀 About Me
 
 I'm a developer learning WEB3,  CLOUD SYSTEMS , and FULL-STACK engineering , with expertise in low-level programming and a passion for solving complex PROBLEMS and making CHALLENGING projects .
