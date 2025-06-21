@@ -18,7 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshitsinghhh&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitsinghhh&layout=compact&theme=radical" alt="Top Languages">
 </p>
