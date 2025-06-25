@@ -1,13 +1,17 @@
 <h1 align="center">Hi there, I'm Rakshit! 👋</h1>
 
 
+<h2 align="center">🌐 Portfolio Website</h2>
+
 <p align="center">
-  ✨ Explore my work and projects:<br><br>
-  <a href="https://www.rakshitsingh.space" target="_blank">
-    👉🏻 <strong>rakshitsingh.space</strong> 🌟
-  </a>
+  👉🏻 <a href="https://www.rakshitsingh.space"><strong>rakshitsingh.space</strong></a> 🌟
 </p>
 
+<p align="center">
+  <a href="https://www.rakshitsingh.space">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-rakshitsingh.space-blueviolet?style=for-the-badge&logo=githubpages" alt="Portfolio Badge">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
