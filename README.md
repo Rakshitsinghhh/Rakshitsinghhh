@@ -3,7 +3,7 @@
 
 <p align="center">
   ✨ Explore my work and projects:<br><br>
-  <a href="https://rakshitsingh.space" target="_blank">
+  <a href="https://www.rakshitsingh.space" target="_blank">
     👉🏻 <strong>rakshitsingh.space</strong> 🌟
   </a>
 </p>
