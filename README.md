@@ -89,29 +89,7 @@ I'm a developer learning WEB3,  CLOUD SYSTEMS , and FULL-STACK engineering , wit
 - Developing Google Cloud deployment pipelines
 - Implementing Web3 authentication systems
 
-### 💻 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| [🔐 WALLATION](https://github.com/Rakshitsinghhh/WALLATION.git) | Secure cryptocurrency wallet with transaction tracking | React, Node.js, Web3.js | [DEMO](https://wallation.vercel.app/) |
-| [🔗ChainPort](https://github.com/Rakshitsinghhh/ChainPort.git) | A secure cryptocurrency wallet adapter which increases the security and sign transaction and sign messages | React, Node.js, Web3.js | [DEMO](https://chain-port.vercel.app/) |
-| [💰 Personal Finance Tracker](https://github.com/Rakshitsinghhh/PersonalFinanceTracker.git) | expense analysis & budgeting tool | Python, Kotlin, java, Sqlite | [DEMO]() |
-| [💊 MediLocker](https://github.com/Rakshitsinghhh/MediLocker.git) | medical records management system | HTML, CSS , JAVASCRIPT , NODE.JS, EXPRESS.JS , MYSQL | [DEMO](https://medi-locker-iota.vercel.app/) |
-| [🍽️ RestaurantOS](https://github.com/Rakshitsinghhh/restaurantmanagment.git) | Restaurant operations system with IoT integration | Python, MySQL | [DEMO]() |
-
-**Key Features Across Projects:**
-- 🔒 **WALLATION**: Secure private key management, multi-chain support, real-time crypto pricing
-- 📊 **Finance Tracker**: automated categorization, PDF report generation
-- 🏥 **MediLocker**: Patient-doctor portal, prescription tracker, medication reminders
-- 🖥️ **RestaurantOS**: clone and comnbination of zomato and swiggy 
-
-**Other Notable Works:**
-- [🛒 E-Commerce Platform](https://github.com/Rakshitsinghhh/e-commerce)
-- [🌤️ Weather Dashboard](https://github.com/Rakshitsinghhh/weatherforecast-temp)
-- 🎨 [UI Component Library]()
-
-<sub>💡 *Demo links can be added when projects are deployed*</sub>
-- 
 Check out more in my [repositories](https://github.com/Rakshitsinghhh?tab=repositories)!
 
 📫 Let's Connect
