@@ -4,6 +4,8 @@
   👉🏻 <a href="https://www.rakshitsingh.space"><strong>rakshitsingh.space</strong></a> 🌟
 </p>
 
+<p align="left"> <a href="https://github.com/rakshitsinghhh"><img src="https://github-profile-trophy.vercel.app/?username=rakshitsinghhh" alt="rakshitsingh" /></a> </p>
+
 
 <p align="center">
   <a href="https://www.rakshitsingh.space">
