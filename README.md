@@ -12,7 +12,8 @@
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="LeetCode Badge" height="200" width="200" /></a>
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Profile Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="LeetCode Profile Badge" height="200" width="200" /></a>
+  <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="LeetCode Profile Badge" height="200" width="200" />
+</a>
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="LeetCode Profile Badge" height="200" width="200" /></a>
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="LeetCode Profile Badge" height="200" width="200" /></a>
