@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-rakshitsingh.space-blueviolet?style=for-the-badge&logo=githubpages" alt="Portfolio Badge">
   </a>
 </p>
-
 <p align="center">
 
   <a href="https://leetcode.com/rakshitsinghhh/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
