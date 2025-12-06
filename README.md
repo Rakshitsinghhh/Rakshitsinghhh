@@ -1,10 +1,21 @@
 <div align="center">
+
   
-# 👋 Hi, I'm Rakshit Singh
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" /> Hi, I'm Rakshit Singh
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer;%E2%9B%93%EF%B8%8F+Web3+Enthusiast;%F0%9F%A7%A0+Problem+Solver+%26+Innovator;%E2%98%81%EF%B8%8F+Cloud+Systems+Engineer;%F0%9F%A6%80+Rust+%26+Blockchain+Developer" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+</div>
+
+
 
 ### 🚀 Full-Stack Developer | Web3 Enthusiast | Systems Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+the+Future+of+Web3;Cloud+Systems+%26+Low-Level+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Building+the+Future+of+Web3+%F0%9F%9A%80;Cloud+Systems+%26+Low-Level+Code+%E2%98%81%EF%B8%8F;Solving+Complex+Problems+%F0%9F%A7%A9;Creating+Scalable+Solutions+%F0%9F%93%88;Mastering+Blockchain+%26+Rust+%F0%9F%A6%80" alt="Typing SVG" />
 
 [![PortFolio](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://rakshitsingh.space)
 [![GitHub followers](https://img.shields.io/github/followers/Rakshitsinghhh?style=social)](https://github.com/Rakshitsinghhh)
