@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+the+Future+of+Web3;Cloud+Systems+%26+Low-Level+Code" alt="Typing SVG" />
 
+[![PortFolio](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://rakshitsingh.space)
 [![GitHub followers](https://img.shields.io/github/followers/Rakshitsinghhh?style=social)](https://github.com/Rakshitsinghhh)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rakshitsinghhh&color=blueviolet&style=flat-square)](https://github.com/Rakshitsinghhh)
 
