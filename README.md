@@ -3,7 +3,8 @@
   
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" /> Hi, I'm Rakshit Singh
+# <img
+ src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" /> Hi, I'm Rakshit Singh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer;%E2%9B%93%EF%B8%8F+Web3+Enthusiast;%F0%9F%A7%A0+Problem+Solver+%26+Innovator;%E2%98%81%EF%B8%8F+Cloud+Systems+Engineer;%F0%9F%A6%80+Rust+%26+Blockchain+Developer" alt="Typing SVG" />
 
